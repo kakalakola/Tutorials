@@ -1,6 +1,16 @@
 #Python 3 - Tutorial 001
 #Variables, and the "Print()" function
 
+#This is a single-line comment. Python ignores these when running the code.
+#It's used throughout the code to note things.
+
+"""
+    This is a multi-line comment. It's generally used for large blocks of text.
+
+    Multi-line comments will not be frequeltly used in these tutorials
+
+"""
+
 #The humble print function
 print('Hello world!')
 
