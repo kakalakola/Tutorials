@@ -1,4 +1,5 @@
-#MySQL - Tutorial 200
+##MySQL - Tutorial 200
+
 Installing & configuring Python
 
   - https://www.python.org/downloads/
