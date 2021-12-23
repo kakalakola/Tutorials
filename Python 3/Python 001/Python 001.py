@@ -1,5 +1,8 @@
 #Python 3 - Tutorial 001
 #Variables, and the "Print()" function
+#By: Saad Azim
+#Last Edit: 2021.12.23
+#Released under GNU GPL 3.0
 
 #This is a single-line comment. Python ignores these when running the code.
 #It's used throughout the code to note things.
