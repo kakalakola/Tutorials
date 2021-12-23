@@ -7,7 +7,7 @@
 """
     This is a multi-line comment. It's generally used for large blocks of text.
 
-    Multi-line comments will not be frequeltly used in these tutorials
+    Multi-line comments will not be frequeltly used in these tutorials.
 
 """
 
