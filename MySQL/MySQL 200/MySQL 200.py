@@ -1,3 +1,6 @@
+#MySQL 200
+#Working with MySQL and Python 3
+
 #PyMySQL can be installed with "python -m pip install pymysql"
 import pymysql
 
