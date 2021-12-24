@@ -25,7 +25,7 @@ cursor.execute('SELECT VERSION()')
 #"fetchone()" is used since the SQL code returns only one result
 data=cursor.fetchone()
 
-print('Database version is: %s'%data)
+print('Database version is: %s',data)
 
 #Close the server connection
 db.close()
