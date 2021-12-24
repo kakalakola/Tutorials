@@ -1,6 +1,5 @@
 Python 3 - Tutorial 001
-
-Variables, and the "Print()" function
+Simple data types & the print() function
   - Comments
   - The most used function
   - Simple variable types
