@@ -13,3 +13,5 @@ Introduction to databases
   - .SQL files
 - First database (MySQL 001.sql)
   - Database format used by db-fiddle
+  - Creating a table
+  - Select data from a table
