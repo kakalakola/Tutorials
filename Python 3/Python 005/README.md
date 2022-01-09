@@ -1,8 +1,8 @@
-#Python 3 - Tutorial 005
+# Python 3 - Tutorial 005
 
 Classes & modules
-  Class
+  - Class
     - Constructor
-  Modules
+  - Modules
     - Importing modules
     - Importing components
