@@ -7,4 +7,13 @@
   - 005 Classes & modules
   - 006 Errors & exception handling
   - 007 File handling
-  - 008 Introduction to classes
+  - 008 Date and time
+  - 009 Introduction to Classes
+  - 010 Generators & Iterators
+  - 011 Data Structures
+  - 012 Collections
+  - 013 GUIs with tkinter 01
+  - 014 GUIs with tkinter 02
+  - 015 Python & MySQL 01
+  - 016 Python & MySQL 02
+  - 017 Network programming
