@@ -1,7 +1,7 @@
 # Python 3 - Tutorial 004
 
 Organizing code with functions
-  -Functions
+  - Functions
     - Function parameters
       - Arguments
       - Return value
