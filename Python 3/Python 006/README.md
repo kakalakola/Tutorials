@@ -1,6 +1,6 @@
 # Python 3 - Tutorial 006
 
-Errors
+Errors & exception handling
   - Errors & exceptions
   - Handling errors/exceptions
     - Try
