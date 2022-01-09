@@ -1,19 +1,19 @@
 # Python 3 tutorial outline
-  - 000 Introduction to Python
-  - 001 Getting started
-  - 002 Input & Output
-  - 003 Basic flow control
-  - 004 Organizing code with functions & modules
-  - 005 Classes & modules
-  - 006 Errors & exception handling
-  - 007 File handling
-  - 008 Date and time
-  - 009 Introduction to Classes
-  - 010 Generators & Iterators
-  - 011 Data Structures
-  - 012 Collections
-  - 013 GUIs with tkinter 01
-  - 014 GUIs with tkinter 02
-  - 015 Python & MySQL 01
-  - 016 Python & MySQL 02
-  - 017 Network programming
+  - 000 - Introduction to Python
+  - 001 - Getting started
+  - 002 - Input & Output
+  - 003 - Basic flow control
+  - 004 - Organizing code with functions & modules
+  - 005 - Classes & modules
+  - 006 - Errors & exception handling
+  - 007 - File handling
+  - 008 - Date and time
+  - 009 - Introduction to Classes
+  - 010 - Generators & Iterators
+  - 011 - Data Structures
+  - 012 - Collections
+  - 013 - GUIs with tkinter 01
+  - 014 - GUIs with tkinter 02
+  - 015 - Python & MySQL 01
+  - 016 - Python & MySQL 02
+  - 017 - Network programming
