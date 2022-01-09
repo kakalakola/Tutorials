@@ -1,4 +1,4 @@
-#Python 3 - Tutorial 002
+# Python 3 - Tutorial 002
 
 Input & Output
   - String operations
