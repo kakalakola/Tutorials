@@ -3,14 +3,17 @@
 Introduction to Python
   - What is Python
     - Python compared to other languages
-      - Scripting Language
-      - High Level Language
-      - Low Level Language
+      - Scripting language
+      - High Level language
+      - Low Level language
       - Assembly
       - Machine code
+    - Version differences
+      - Python 2
+      - Python 3
   - Why use Python
     - Ease of use
       - Syntax
       - Modules
-  - Installing Python
+  - Installing Python 3
     - https://www.python.org

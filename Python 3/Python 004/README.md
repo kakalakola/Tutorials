@@ -1,9 +1,9 @@
 #Python 3 - Tutorial 004
 
-Organizing Code With Functions
+Organizing code with functions
   -Functions
-    - Function Parameters
+    - Function parameters
       - Arguments
-      - Return Value
+      - Return value
       - Scope
-    - Lambda Functions
+    - Lambda functions

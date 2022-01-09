@@ -1,9 +1,9 @@
 #Python 3 - Tutorial 008
 
-Introduction to Classes
-  - Creating Classes
-  - Class Instances
-  - Class Inheritence
+Introduction to classes
+  - Creating classes
+  - Class instances
+  - Class inheritence
   - Polymorphism
-  - Exception Class
-    - Custom Exceptions
+  - Exception class
+    - Custom exceptions

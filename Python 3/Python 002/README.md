@@ -1,7 +1,7 @@
 #Python 3 - Tutorial 002
 
 Input & Output
-  - String Operations
+  - String operations
   - I/O
-  - Output Formatting
-  - Operands & Operators
+  - Output formatting
+  - Operands & operators

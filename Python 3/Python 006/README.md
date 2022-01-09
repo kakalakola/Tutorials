@@ -1,8 +1,8 @@
 #Python 3 - Tutorial 006
 
 Errors
-  - Errors & Exceptions
-  - Handling Errors/Exceptions
+  - Errors & exceptions
+  - Handling errors/exceptions
     - Try
       - Except
       - Else

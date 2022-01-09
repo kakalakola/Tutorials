@@ -3,7 +3,7 @@
 File Handling
   - Working with files
     - Modes
-  - Reading Files
-  - Writing Files
-  - Appending Files
+  - Reading files
+  - Writing files
+  - Appending files
   - With (statement)

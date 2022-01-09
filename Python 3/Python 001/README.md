@@ -2,7 +2,7 @@
 
 Getting started
   - Print()
-  - Variables & Data Structures
+  - Variables & data structures
     - Integers
     - String
     - Float

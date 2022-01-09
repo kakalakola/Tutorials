@@ -1,6 +1,6 @@
 #Python 3 - Tutorial 009
 
-Generators & Iterators
+Generators & iterators
   - Iterators
   - Generators
   - Any() & All()

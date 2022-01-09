@@ -1,11 +1,11 @@
 #Python 3 - Tutorial 003
 
 Basic flow control
-  - If/Else Statements
+  - If/Else statements
     - Indentations
   - Loops
-    - For Loops
-    - While Loops
+    - For loops
+    - While loops
     - Range
     - Break/Continue
   - Assert
