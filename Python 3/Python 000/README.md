@@ -1,4 +1,4 @@
-#Python 3 - Tutorial 000
+# Python 3 - Tutorial 000
 
 Introduction to Python
   - What is Python
