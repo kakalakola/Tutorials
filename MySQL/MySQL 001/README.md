@@ -13,5 +13,10 @@ Introduction to databases
   - .SQL files
 - First database (MySQL 001.sql)
   - Database format used by db-fiddle
+    - Schema to create tables
+    - Queries to get data from tables
   - Creating a table
   - Select data from a table
+    - SELECT * FROM [table]
+    - SELECT * FROM [table] WHERE [column] = [value]
+    - SELECT [column 1, column 2] FROM TABLE WHERE [column] = [value]

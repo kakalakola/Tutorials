@@ -1,11 +1,11 @@
-Python 3 - Tutorial 001
+#Python 3 - Tutorial 001
 
-Simple data types & the print() function
-
-- Comments
-- The most used function
-- Simple variable types
-  - String
-  - Integer
-  - Float
-  - List
+Getting started
+  - Print()
+  - Variables & Data Structures
+    - Integers
+    - String
+    - Float
+    - Boolean
+    - List
+      - Nested Lists

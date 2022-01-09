@@ -1,9 +1,10 @@
 Tutorial outline
-- 000 Installing & configuring Python 3
-- 001 Simple data types & the print() function
-- 002 Complex data types & user input
-- 003 Flow control
-- 004 Functions
-- 005 Exceptions & error handling
-- 006 Classes
-- 007 Libraries
+  - 001 Introduction to Python
+  - 002 Getting started
+  - 003 Input & Output
+  - 004 Basic flow control
+  - 005 Organizing Code With Functions & Modules
+  - 006 Classes & Modules
+  - 007 Errors
+  - 008 File Handling
+  - 009 Introduction to Classes
