@@ -1,4 +1,4 @@
-#Python 3 - Tutorial 006
+# Python 3 - Tutorial 006
 
 Errors
   - Errors & exceptions
